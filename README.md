@@ -13,6 +13,13 @@ A project I built to learn about RAG and energy systems. It pulls live electrici
 4. Sends those chunks to GPT-4o-mini to generate an explanation
 5. Shows everything on a Streamlit dashboard
 ---
+## Screenshots
+
+![Dashboard](dashboard.png)
+*Metric cards, demand chart with anomaly flags*
+
+![Explanation](explanation.png)
+*AI-generated explanation for the Jun 17 2am demand spike*
 
 ## Stack
 
